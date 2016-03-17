@@ -17,3 +17,5 @@ d3.select("div#viz")
   .text(function(d) { return d[0] + ' '; })
   .style("font-size", function(d) { return scale(d[1]) + "px"; })
   .style("color", function(d) { return color(d[1]); });
+
+  

@@ -7,11 +7,24 @@
   <link rel="stylesheet" type="text/css" href="Css/index.css">
   <title>InfoVis - 2016</title>
 </head>
-<body>
+<body onload="fagus()">
   <div id="viz"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
   <script src="Js/index.js"></script> 
-  <image src='https://upload.wikimedia.org/wikipedia/commons/5/53/Tr%C3%A9bol_de_4_hojas.svg'>
+  <script>
+function myFunction(e) {
+    var x = e.clientX;
+    var y = e.clientY;
+    var coor = "Coordinates: (" + x + "," + y + ")";
+    document.getElementById("demo").innerHTML = coor;
+}
 
+function clearCoor() {
+    document.getElementById("demo").innerHTML = "";
+}
+</script>
+  <image src='https://upload.wikimedia.org/wikipedia/commons/5/53/Tr%C3%A9bol_de_4_hojas.svg'>
+<div onmousemove="myFunction(event)" onmouseout="clearCoor()">
+	<p id="demo"></p>
 </body>
 </html>
