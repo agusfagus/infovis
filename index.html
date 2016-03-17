@@ -15,10 +15,10 @@
 function myFunction(e) {
     var x = e.clientX;
     var y = e.clientY;
-    var coor = "Coordinates: (" + x + "," + y + ")";
+    var coor = "(" + x + "," + y + ")";
     color = d3.scale.linear()
-            .domain([1, 4, 8, 15, 10 ,25, 20, 50])
-            .range(['#fbf','#00e500','#0ccc00','#00FF00','#00AA00','#007f10','#005600', '#014c00']);
+            .domain([1, 7, 3, 5, 10 ,2, 16, 30])
+            .range(['#AfA1f','#CAe500','#0cc4c0A','#DAFF10','#F0AA00','#D07f10','#BA5600', '#D1Ac10']);
 
     document.getElementById("demo").innerHTML = coor;
     d3.select("div#viz").html("");
@@ -36,7 +36,6 @@ function clearCoor() {
     document.getElementById("demo").innerHTML = "";
 }
 </script>
-  <image src='https://upload.wikimedia.org/wikipedia/commons/5/53/Tr%C3%A9bol_de_4_hojas.svg'>
 <div class="trackpad" onmousemove="myFunction(event)" onmouseout="clearCoor()">
 	<div id="demo"></div>
 </body>
