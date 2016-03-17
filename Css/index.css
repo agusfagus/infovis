@@ -1,13 +1,13 @@
 body {
-  font-family: 'Lobster', cursive;
+  font-family: 'Arial', cursive;
 }
 
 .legend {
-	border: 1px solid #555555;
+	border: 1px solid #552355;
+	margin: 11px;
 	border-radius: 5px 5px 5px 5px;
-	font-size: 0.8em;
-	margin: 10px;
-	padding: 8px;        
+	font-size: 0.4em;
+	padding: 5px;        
 }
 
 .bld {
