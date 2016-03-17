@@ -16,7 +16,20 @@ function myFunction(e) {
     var x = e.clientX;
     var y = e.clientY;
     var coor = "Coordinates: (" + x + "," + y + ")";
+    color = d3.scale.linear()
+            .domain([1, 4, 8, 15, 10 ,25, 20, 50])
+            .range(['#fbf','#00e500','#0ccc00','#00FF00','#00AA00','#007f10','#005600', '#014c00']);
+
     document.getElementById("demo").innerHTML = coor;
+    d3.select("div#viz").html("");
+    d3.select("div#viz")
+  .selectAll('p')
+  .data(data)
+  .enter()
+  .append('span')
+  .text(function(d) { return d[0] + ' '; })
+  .style("font-size", function(d) { return scale(x%40) + "px"; })
+  .style("color", function(d) { return color(d[1]); });
 }
 
 function clearCoor() {
@@ -24,7 +37,7 @@ function clearCoor() {
 }
 </script>
   <image src='https://upload.wikimedia.org/wikipedia/commons/5/53/Tr%C3%A9bol_de_4_hojas.svg'>
-<div onmousemove="myFunction(event)" onmouseout="clearCoor()">
-	<p id="demo"></p>
+<div class="trackpad" onmousemove="myFunction(event)" onmouseout="clearCoor()">
+	<div id="demo"></div>
 </body>
 </html>
