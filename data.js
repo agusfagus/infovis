@@ -13,13 +13,13 @@ var layout_data = [
     { "len": 31, "color": "#ffed6f", "label": "December", "id": "december" }
 ];
 var heatmap = [
-    ['january',1,2,1],
-    ['january',2,3,1],
-    ['january',2,2,1],
-    ['january',2,2,1],
-    ['january',12,2,1],
-    ['january',21,2,1],
-    ['january',32,2,1],
+    ['january',1,2,3],
+    ['january',2,3,145],
+    ['january',2,2,1543],
+    ['january',2,2,13],
+    ['january',12,2,541],
+    ['january',21,2,321],
+    ['january',32,2,761],
     ['january',23,2,1],
     ['february',228,3,1],
     ['april',286,27,1684766],
