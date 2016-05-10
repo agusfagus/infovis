@@ -207,5 +207,4 @@ days_off = [
     ['february',21,22,1],
     ['february',22,23,1],
     ['december',30,31,0]
-
 ];
