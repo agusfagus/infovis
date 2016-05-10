@@ -13,7 +13,11 @@ var layout_data = [
     { "len": 31, "color": "#ffed6f", "label": "December", "id": "december" }
 ];
 var heatmap = [
-    ['january',0,1,1368001],
+    ['january',0,1,1],
+    ['january',0,1,1],
+    ['january',0,1,1],
+    ['january',0,1,1],
+    ['january',0,1,1],
     ['january',26,27,1684766],
     ['january',27,28,1759669],
     ['january',28,29,1764844],
