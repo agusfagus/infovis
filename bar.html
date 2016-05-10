@@ -38,7 +38,7 @@ body {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 80, right: 80, bottom: 80, left: 80},
+var margin = {top: 3000, right: 3000, bottom: 3000, left: 3000},
     width = 600 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
@@ -46,7 +46,7 @@ var x = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
 
 var y0 = d3.scale.linear().domain([300, 1100]).range([height, 0]),
-y1 = d3.scale.linear().domain([20, 80]).range([height, 0]);
+y1 = d3.scale.linear().domain([20, 3000]).range([height, 0]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
