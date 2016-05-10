@@ -13,17 +13,17 @@ var layout_data = [
     { "len": 31, "color": "#ffed6f", "label": "December", "id": "december" }
 ];
 var heatmap = [
-    ['january',212,1,1],
-    ['february',228,1,1],
+    ['january',212,2,1],
+    ['february',228,3,1],
     ['april',286,27,1684766],
     ['may',286,1,1577419],
-    ['june',286,2,1509311],
-    ['july',289,3,1688266], 
-    ['august',211,4,1169570],
-    ['september',263,11,1163321],
-    ['october',236,11,1163321],
-    ['november',186,11,1163321],
-    ['december',302,11,1163321]
+    ['june',286,2,15311],
+    ['july',289,3,88266], 
+    ['august',211,1,1169570],
+    ['september',263,111,1163321],
+    ['october',236,114,1163321],
+    ['november',186,12,1163321],
+    ['december',302,1,1163321]
 ];
 
 days_off = [
