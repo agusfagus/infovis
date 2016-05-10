@@ -121,5 +121,5 @@ var heatmap = [
 ];
 
 days_off = [
-    ['january',0,1,2]
+    ['july',0,1,2]
 ];
