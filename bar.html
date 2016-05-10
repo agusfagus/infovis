@@ -82,7 +82,7 @@ d3.tsv("data.tsv", type, function(error, data) {
 	  .attr("dy", "-2em")
 	  .style("text-anchor", "end")
 	  .style("text-anchor", "end")
-	  .text("Mails");
+	  .text("Sent");
 	
   svg.append("g")
 	  .attr("class", "y axis axisRight")
@@ -93,7 +93,7 @@ d3.tsv("data.tsv", type, function(error, data) {
 	  .attr("dy", "-2em")
 	  .attr("dx", "2em")
 	  .style("text-anchor", "end")
-	  .text("#");
+	  .text("Received");
 
   bars = svg.selectAll(".bar").data(data).enter();
 
