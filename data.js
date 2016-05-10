@@ -43,8 +43,8 @@ var heatmap = [
 
 days_off = [
      ['january',1,2,1],
-    ['january',2,3,1],
-    ['february',3,4,1],
+    ['january',2,3,2],
+    ['february',3,4,3],
     ['april',286,27,1684766],
     ['may',286,1,1577419],
     ['june',286,2,15311]
