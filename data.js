@@ -200,11 +200,5 @@ var heatmap = [
 ];
 
 days_off = [
-    ['january',0,1,2],
-    ['january',1,2,0],
-    ['january',2,3,0],
-    ['january',3,4,1],
-    ['february',21,22,1],
-    ['february',22,23,1],
-    ['december',30,31,0]
+    ['january',0,1,2]
 ];
