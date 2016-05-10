@@ -39,8 +39,8 @@ body {
 <script>
 
 var margin = {top: 80, right: 80, bottom: 80, left: 80},
-    width = 6000 - margin.left - margin.right,
-    height = 4000 - margin.top - margin.bottom;
+    width = 600 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
 
 var x = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
@@ -82,7 +82,7 @@ d3.tsv("data.tsv", type, function(error, data) {
 	  .attr("dy", "-2em")
 	  .style("text-anchor", "end")
 	  .style("text-anchor", "end")
-	  .text("Sent");
+	  .text("Mails");
 	
   svg.append("g")
 	  .attr("class", "y axis axisRight")
@@ -93,7 +93,7 @@ d3.tsv("data.tsv", type, function(error, data) {
 	  .attr("dy", "-2em")
 	  .attr("dx", "2em")
 	  .style("text-anchor", "end")
-	  .text("Received");
+	  .text("#");
 
   bars = svg.selectAll(".bar").data(data).enter();
 
