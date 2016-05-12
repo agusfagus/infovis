@@ -25,9 +25,7 @@
       {"name": "olivia.cesio@wolox.com.ar", "size": 41}
      ]
     },
-
-    {
-     "name": "data",
+    {"name": "data",
      "children": [
       {"name": "Data", "size": 20544},
       {"name": "DataList", "size": 19788},
