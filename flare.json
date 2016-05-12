@@ -20,15 +20,22 @@
     {
      "name": "interpolate",
      "children": [
-      {"name": "ArrayInterpolator", "size": 1983},
-      {"name": "ColorInterpolator", "size": 2047},
-      {"name": "DateInterpolator", "size": 1375},
-      {"name": "Interpolator", "size": 8746},
-      {"name": "MatrixInterpolator", "size": 2202},
-      {"name": "NumberInterpolator", "size": 1382},
-      {"name": "ObjectInterpolator", "size": 1629},
-      {"name": "PointInterpolator", "size": 1675},
-      {"name": "RectangleInterpolator", "size": 2042}
+      {"name": "luciana.reznik@wolox.com.ar", "size": 96},
+      {"name": "santiago.baglietto@wolox.com.ar", "size": 74},
+      {"name": "williams.matias@wolox.com.ar", "size": 65},
+      {"name": "florencia.williams@wolox.com.ar", "size": 43},
+      {"name": "nicomagni@wolox.com.ar", "size": 89},
+      {"name": "ignacio.rivera@wolox.com.ar", "size": 47},
+      {"name": "cmaderblanco@wolox.com.ar", "size": 85},
+      {"name": "santiago.samra@wolox.com.ar", "size": 35},
+      {"name": "daniela.martin@wolox.com.ar", "size": 29},
+      {"name": "cody.pfitzner@wolox.com.ar", "size": 32},
+      {"name": "alma.brandy@wolox.com.ar", "size": 65},
+      {"name": "esteban.pintos@wolox.com.ar", "size": 39},
+      {"name": "federico.ramundo@wolox.com.ar", "size": 47},
+      {"name": "eugenia.lago@wolox.com.ar", "size": 102},
+      {"name": "maite.marzoratti@wolox.com.ar", "size": 23},
+      {"name": "olivia.cesio@wolox.com.ar", "size": 41}
      ]
     },
     {"name": "ISchedulable", "size": 1041},
