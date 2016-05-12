@@ -1,8 +1,21 @@
 {
  "name": "flare",
  "children": [
-  
   {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "animate",
+   "children": [
+    {
      "name": "interpolate",
      "children": [
       {"name": "luciana.reznik@wolox.com.ar", "size": 9600},
