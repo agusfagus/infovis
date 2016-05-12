@@ -57,7 +57,7 @@ d3.tsv("data2.tsv", function(error, data) {
   if (error) throw error;
 
   data.forEach(function(d) {
-    d.fecha = parseDate(d.fecha);
+    d.fecha = d.fecha;
     d.tiempo = +d.tiempo;
   });
 
