@@ -1,35 +1,22 @@
 [{
 	"values":[
 	{
-		"ele":147,
-		"type":"sent"
+		"ele":4657,
+		"type":"external"
 	},
 	{
-		"ele":1987,
-		"type":"received"
+		"ele":13970,
+		"type":"wolox"
 	},
 	{
-		"ele":25,
-		"type":"time of response"
+		"ele":9934,
+		"type":"bots"
+	},
+	{
+		"ele":2484,
+		"type":"family & friends"
 	}
 	],
-	"total": 150
-		
-},
-{
-	"values":[
-	{
-		"ele":312,
-		"type":"sent"
-	},
-	{
-		"ele":2210,
-		"type":"received"
-	},
-	{
-		"ele":27.2,
-		"type":"time of response"
-	}],
-	"total": 150
+	"total": 31045
 		
 }]
