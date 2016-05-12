@@ -48,7 +48,9 @@
     {"name": "TransitionEvent", "size": 1116},
     {"name": "Tween", "size": 6006}
    ]
-  }
+  },
+
+    {"name": "Visualization", "size": 16540}
    ]
   }
  ]
