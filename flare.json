@@ -3,7 +3,7 @@
   {
    "children": [
     {
-     "name": "interpolate",
+     "name": "wolox",
      "children": [
       {"name": "luciana.reznik@wolox.com.ar", "size": 9600},
       {"name": "santiago.baglietto@wolox.com.ar", "size": 7400},
@@ -32,7 +32,7 @@
      ]
     },
   {
-   "name": "physics",
+   "name": "externos",
    "children": [
       {"name": "Ernest.Riba@wunderman.com", "size": 2200},
       {"name": "Maria.Quinzio@wunderman.com", "size": 1700},
