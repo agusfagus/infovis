@@ -10,6 +10,14 @@ body {
 	padding: 5px;        
 }
 
+.h1 {
+	border: 1px solid #552355;
+	margin: 11px;
+	border-radius: 5px 5px 5px 5px;
+	font-size: 0.4em;
+	padding: 5px;        
+}
+
 .bld {
   font-weight: bold
 }
