@@ -5,9 +5,9 @@
    "name": "analytics",
    "children": [
     {
-     "name": "cluster",
+     "name": "graph",
      "children": [
-      {"name": "luciana.reznik@wolox.com.ar", "size": 96},
+     {"name": "luciana.reznik@wolox.com.ar", "size": 96},
       {"name": "santiago.baglietto@wolox.com.ar", "size": 74},
       {"name": "williams.matias@wolox.com.ar", "size": 65},
       {"name": "florencia.williams@wolox.com.ar", "size": 43}
@@ -23,16 +23,6 @@
       {"name": "eugenia.lago@wolox.com.ar", "size": 102},
       {"name": "maite.marzoratti@wolox.com.ar", "size": 23},
       {"name": "olivia.cesio@wolox.com.ar", "size": 41}
-     ]
-    },
-    {
-     "name": "graph",
-     "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
      ]
     },
     {
