@@ -349,7 +349,7 @@ d3 = d3 || {};
                     var g = wrap.select('g')
                     			.attr('transform','translate(10,30)');
 
-                    	wrapEnter.append('text').attr('x',0).attr('y',0).text('Interactive legend')
+                    	wrapEnter.append('text').attr('x',0).attr('y',0).text('Categorias')
                     var g_ci = g.selectAll('circle')
                         .data(function(d){  
                         	return Object.keys(d)
