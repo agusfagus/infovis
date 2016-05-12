@@ -20,22 +20,22 @@
     {
      "name": "interpolate",
      "children": [
-      {"name": "luciana.reznik@wolox.com.ar", "size": 96},
-      {"name": "santiago.baglietto@wolox.com.ar", "size": 74},
-      {"name": "williams.matias@wolox.com.ar", "size": 65},
-      {"name": "florencia.williams@wolox.com.ar", "size": 43},
-      {"name": "nicomagni@wolox.com.ar", "size": 89},
-      {"name": "ignacio.rivera@wolox.com.ar", "size": 47},
-      {"name": "cmaderblanco@wolox.com.ar", "size": 85},
-      {"name": "santiago.samra@wolox.com.ar", "size": 35},
-      {"name": "daniela.martin@wolox.com.ar", "size": 29},
-      {"name": "cody.pfitzner@wolox.com.ar", "size": 32},
-      {"name": "alma.brandy@wolox.com.ar", "size": 65},
-      {"name": "esteban.pintos@wolox.com.ar", "size": 39},
-      {"name": "federico.ramundo@wolox.com.ar", "size": 47},
-      {"name": "eugenia.lago@wolox.com.ar", "size": 102},
-      {"name": "maite.marzoratti@wolox.com.ar", "size": 23},
-      {"name": "olivia.cesio@wolox.com.ar", "size": 41}
+      {"name": "luciana.reznik@wolox.com.ar", "size": 9600},
+      {"name": "santiago.baglietto@wolox.com.ar", "size": 7400},
+      {"name": "williams.matias@wolox.com.ar", "size": 6500 },
+      {"name": "florencia.williams@wolox.com.ar", "size": 4300},
+      {"name": "nicomagni@wolox.com.ar", "size": 8900},
+      {"name": "ignacio.rivera@wolox.com.ar", "size": 4700},
+      {"name": "cmaderblanco@wolox.com.ar", "size": 8500},
+      {"name": "santiago.samra@wolox.com.ar", "size": 3500},
+      {"name": "daniela.martin@wolox.com.ar", "size": 2900},
+      {"name": "cody.pfitzner@wolox.com.ar", "size": 3200},
+      {"name": "alma.brandy@wolox.com.ar", "size": 6500},
+      {"name": "esteban.pintos@wolox.com.ar", "size": 3900},
+      {"name": "federico.ramundo@wolox.com.ar", "size": 4700},
+      {"name": "eugenia.lago@wolox.com.ar", "size": 10200},
+      {"name": "maite.marzoratti@wolox.com.ar", "size": 2300},
+      {"name": "olivia.cesio@wolox.com.ar", "size": 4100}
      ]
     },
   {
