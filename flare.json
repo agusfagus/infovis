@@ -13,9 +13,6 @@
    ]
   },
   {
-   "name": "animate",
-   "children": [
-    {
      "name": "interpolate",
      "children": [
       {"name": "luciana.reznik@wolox.com.ar", "size": 9600},
