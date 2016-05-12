@@ -1,83 +1,34 @@
 [{
 	"values":[
 	{
-		"ele":,
+		"ele":147,
 		"type":"sent"
 	},
 	{
-		"ele":40,
+		"ele":1987,
 		"type":"received"
 	},
 	{
-		"ele":80,
+		"ele":25,
 		"type":"time of response"
-	},
-	{
-		"ele":10,
-		"type":"c4"
-	}],
+	}
+	],
 	"total": 150
 		
 },
 {
 	"values":[
 	{
-		"ele":20,
+		"ele":312,
 		"type":"sent"
 	},
 	{
-		"ele":40,
+		"ele":2210,
 		"type":"received"
 	},
 	{
-		"ele":80,
+		"ele":27.2,
 		"type":"time of response"
-	},
-	{
-		"ele":10,
-		"type":"c4"
-	}],
-	"total": 150
-		
-},
-{
-	"values":[
-	{
-		"ele":20,
-		"type":"sent"
-	},
-	{
-		"ele":40,
-		"type":"received"
-	},
-	{
-		"ele":80,
-		"type":"time of response"
-	},
-	{
-		"ele":10,
-		"type":"c4"
-	}],
-	"total": 150
-		
-},
-{
-	"values":[
-	{
-		"ele":20,
-		"type":"sent"
-	},
-	{
-		"ele":40,
-		"type":"received"
-	},
-	{
-		"ele":80,
-		"type":"time of response"
-	},
-	{
-		"ele":10,
-		"type":"c4"
 	}],
 	"total": 150
 		
