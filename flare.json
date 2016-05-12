@@ -15,7 +15,6 @@
   {
    "name": "animate",
    "children": [
-    {"name": "FunctionSequence", "size": 5842},
     {
      "name": "interpolate",
      "children": [
