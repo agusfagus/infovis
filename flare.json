@@ -12,6 +12,9 @@
     }
    ]
   },
+  {
+   "name": "animate",
+   "children": [
     {
      "name": "interpolate",
      "children": [
